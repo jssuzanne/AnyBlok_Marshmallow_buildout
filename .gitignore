@@ -8,6 +8,7 @@ parts
 var/
 doc/
 anyblok/
+anyblok_marshmallow/
 develop-eggs
 docs/_build/
 .installed.cfg
